@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 - *A small riddle to end* 
   
-  > *Why do they not allow you to fart in an Apple store ?*
-![wondering](https://media.giphy.com/media/3oFzmerJ9kykSR92jm/giphy.gif)
+ Why do they not allow you to fart in an Apple store ?
+>![wondering](https://media.giphy.com/media/3oFzmerJ9kykSR92jm/giphy.gif)
 
 <details>
 <summary>Answer</summary>
