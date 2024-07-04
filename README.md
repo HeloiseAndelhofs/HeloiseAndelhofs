@@ -14,20 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### 🖥️ Making my first steps in web development with Sirius School.
-#### 🎵 Love music and want to developp my musical composition skills.
-#### 🤷‍♀️ Way too much interest I never developped.
-#### 🐉 Dragon Lover .  
 ---
 
-- *A small riddle to end* 
-  
- Why do they not allow you to fart in an Apple store ?
->![wondering](https://media.giphy.com/media/3oFzmerJ9kykSR92jm/giphy.gif)
+## Anything Worth Doing Is Worth Doing Right
 
-<details>
-<summary>Answer</summary>
+## A True Master Is An Eternal Student
 
-Because there is no Windows...
-
-</details>
+I guess those quotes descrbies perfectly my programming journey
