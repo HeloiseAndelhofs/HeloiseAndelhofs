@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ---
 
-## Anything Worth Doing Is Worth Doing Right
+#### - Anything Worth Doing Is Worth Doing Right
 
-## A True Master Is An Eternal Student
+#### - A True Master Is An Eternal Student
 
-I guess those quotes descrbies perfectly my programming journey
+I guess those quotes describes perfectly my programming journey. Lets do it !
